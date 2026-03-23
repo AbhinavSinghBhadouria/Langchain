@@ -1,0 +1,1 @@
+This is a complete playlist for learning langchain using python for generative AI
